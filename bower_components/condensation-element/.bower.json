@@ -1,0 +1,27 @@
+{
+  "name": "condensation-element",
+  "main": "condensation-element.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.9.0",
+    "lrndesign-animationctrl": "LRNWebComponents/lrndesign-animationctrl#^0.0.2",
+    "lrn-icons": "https://github.com/LRNWebComponents/lrn-icons.git#^1.0.12",
+    "greensock-cdn": "https://github.com/bterp-web/greensock.git"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/EberlyODL/condensation-element",
+  "_release": "42bb02370d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "42bb02370d5b8017203d1f75a39d7b0e48741ba9"
+  },
+  "_source": "https://github.com/EberlyODL/condensation-element.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/EberlyODL/condensation-element.git",
+  "_direct": true
+}

@@ -1,0 +1,27 @@
+{
+  "name": "hydrolysis-element",
+  "main": "hydrolysis-element.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.9.0",
+    "lrndesign-animationctrl": "LRNWebComponents/lrndesign-animationctrl#^0.0.2",
+    "greensock-cdn": "https://github.com/bterp-web/greensock.git"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/EberlyODL/hydrolysis-element",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "f4b206841775067c394bfcd56e1e6e7c23cad420"
+  },
+  "_source": "https://github.com/EberlyODL/hydrolysis-element.git",
+  "_target": "^0.0.1",
+  "_originalSource": "https://github.com/EberlyODL/hydrolysis-element.git",
+  "_direct": true
+}
