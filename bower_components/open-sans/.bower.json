@@ -1,0 +1,23 @@
+{
+  "name": "open-sans",
+  "main": "open-sans.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.9.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/bterp-web/open-sans",
+  "_release": "32fcde2f86",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "32fcde2f86e954a1612c3ec9013ae3206f1cb1ea"
+  },
+  "_source": "https://github.com/bterp-web/open-sans.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/bterp-web/open-sans.git"
+}
