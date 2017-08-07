@@ -6,6 +6,8 @@
     "hydrolysis-element": "https://github.com/EberlyODL/hydrolysis-element.git#^0.0.1",
     "condensation-element": "https://github.com/EberlyODL/condensation-element.git",
     "iron-pages": "PolymerElements/iron-pages#^2.0.0"
+    "lrndesign-animationctrl": "LRNWebComponents/lrndesign-animationctrl#^0",
+    "greensock-cdn": "EberlyODl/greensock#^0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
